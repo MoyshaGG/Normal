@@ -1,0 +1,10 @@
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\bin\Debug\Exam.exe.config
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\bin\Debug\Exam.exe
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\bin\Debug\Exam.pdb
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.exe
+C:\Users\cobra\OneDrive\Робочий стіл\Exam-master\Exam\obj\Debug\Exam.pdb
