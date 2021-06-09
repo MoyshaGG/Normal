@@ -1,0 +1,10 @@
+C:\Users\cobra\source\repos\LabaExam\LabaExam\bin\Debug\LabaExam.exe.config
+C:\Users\cobra\source\repos\LabaExam\LabaExam\bin\Debug\LabaExam.exe
+C:\Users\cobra\source\repos\LabaExam\LabaExam\bin\Debug\LabaExam.pdb
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.csprojAssemblyReference.cache
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.Form1.resources
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.Properties.Resources.resources
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.csproj.GenerateResource.cache
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.csproj.CoreCompileInputs.cache
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.exe
+C:\Users\cobra\source\repos\LabaExam\LabaExam\obj\Debug\LabaExam.pdb
